@@ -1,4 +1,4 @@
-# jQuery 應用練習
+# jQ-matching game
 
-字母卡片翻牌配對遊戲
+使用 jQuery 編寫動畫效果－字母卡片翻牌配對遊戲
 https://june930725.github.io/jq-card/
