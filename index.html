@@ -87,6 +87,8 @@
       /* 設定定位使其前後重疊 */
       position: absolute;
       border-radius: 10px;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
     }
 
     .back {
@@ -102,6 +104,8 @@
       transform: rotateY(180deg);
       border-radius: 10px;
       box-shadow: 2px 2px 5px rgba(130, 65, 170, 0.6);
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
     }
   </style>
 </head>
